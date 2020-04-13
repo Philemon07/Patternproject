@@ -1,0 +1,16 @@
+#header {
+    background: url("oliver-spicer-E0CZzmGtF_A-unsplash.jpg") center center no-repeat;
+}
+p{
+  margin: 1.5rem;
+}
+h5{
+  margin: 1.5rem;
+
+}
+.lead{
+    color: rgb(161, 147, 147);
+}
+h1{
+    color: red;
+}
